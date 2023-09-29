@@ -1,0 +1,366 @@
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormSettings.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Giulia\Univap\3ano\TCC_procesDeImg\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUpload_Img.resources
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Programação\C#\PROC_IMG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\aluno\Source\Repos\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\TCC_10_09\EmmanuelJYokoyama\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormModal.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormCadastro.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormLogin.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.exe
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.deps.json
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.json
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.runtimeconfig.dev.json
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.AssemblyReference.cache
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Form1.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormCadastro.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormLogin.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormImage.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormProjects.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormReport.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Forms.FormUser.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.Properties.Resources.resources
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.GenerateResource.cache
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfoInputs.cache
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.AssemblyInfo.cs
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.csproj.CopyComplete
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\ref\TCC_PDI.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.pdb
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.genruntimeconfig.cache
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.Base.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebBrowser.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebEngine.dll
+C:\Users\arthu\Source\Repos\TCC_PDI_13_09\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebBrowser.WinForm.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.Base.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebBrowser.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebEngine.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\EO.WebBrowser.WinForm.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\ZstdSharp.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI..resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormCadastro.resources
+D:\Programação\C#\TCC_PDI\TCC_PDI\TCC_PDI\obj\Debug\net5.0-windows\TCC_PDI.FormLogin.resources
