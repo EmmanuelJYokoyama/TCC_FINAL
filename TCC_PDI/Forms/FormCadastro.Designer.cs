@@ -34,6 +34,7 @@ namespace TCC_PDI
             this.label1 = new System.Windows.Forms.Label();
             this.textNomeEmpresa = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.cmbBoxRamoAtividade = new System.Windows.Forms.ComboBox();
             this.radioBtnCNPJ = new System.Windows.Forms.RadioButton();
             this.radiobtnCPF = new System.Windows.Forms.RadioButton();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
@@ -50,7 +51,6 @@ namespace TCC_PDI
             this.btnLoginBack = new FontAwesome.Sharp.IconButton();
             this.textSenha = new System.Windows.Forms.MaskedTextBox();
             this.textCPF_CNPJ = new System.Windows.Forms.MaskedTextBox();
-            this.cmbBoxRamoAtividade = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox4)).BeginInit();
@@ -67,9 +67,10 @@ namespace TCC_PDI
             this.btnCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCadastrar.ForeColor = System.Drawing.Color.White;
-            this.btnCadastrar.Location = new System.Drawing.Point(12, 523);
+            this.btnCadastrar.Location = new System.Drawing.Point(10, 392);
+            this.btnCadastrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCadastrar.Name = "btnCadastrar";
-            this.btnCadastrar.Size = new System.Drawing.Size(490, 55);
+            this.btnCadastrar.Size = new System.Drawing.Size(429, 41);
             this.btnCadastrar.TabIndex = 0;
             this.btnCadastrar.Text = "CADASTRAR";
             this.btnCadastrar.UseVisualStyleBackColor = false;
@@ -81,17 +82,18 @@ namespace TCC_PDI
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(12, 113);
+            this.label1.Location = new System.Drawing.Point(10, 85);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(101, 20);
+            this.label1.Size = new System.Drawing.Size(81, 17);
             this.label1.TabIndex = 1;
             this.label1.Text = "CPF / CNPJ";
             // 
             // textNomeEmpresa
             // 
-            this.textNomeEmpresa.Location = new System.Drawing.Point(12, 239);
+            this.textNomeEmpresa.Location = new System.Drawing.Point(10, 179);
+            this.textNomeEmpresa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textNomeEmpresa.Name = "textNomeEmpresa";
-            this.textNomeEmpresa.Size = new System.Drawing.Size(417, 27);
+            this.textNomeEmpresa.Size = new System.Drawing.Size(365, 23);
             this.textNomeEmpresa.TabIndex = 2;
             // 
             // panel1
@@ -114,16 +116,27 @@ namespace TCC_PDI
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(524, 751);
+            this.panel1.Size = new System.Drawing.Size(458, 563);
             this.panel1.TabIndex = 4;
+            // 
+            // cmbBoxRamoAtividade
+            // 
+            this.cmbBoxRamoAtividade.FormattingEnabled = true;
+            this.cmbBoxRamoAtividade.Location = new System.Drawing.Point(10, 258);
+            this.cmbBoxRamoAtividade.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbBoxRamoAtividade.Name = "cmbBoxRamoAtividade";
+            this.cmbBoxRamoAtividade.Size = new System.Drawing.Size(365, 23);
+            this.cmbBoxRamoAtividade.TabIndex = 15;
             // 
             // radioBtnCNPJ
             // 
             this.radioBtnCNPJ.AutoSize = true;
-            this.radioBtnCNPJ.Location = new System.Drawing.Point(77, 169);
+            this.radioBtnCNPJ.Location = new System.Drawing.Point(67, 127);
+            this.radioBtnCNPJ.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioBtnCNPJ.Name = "radioBtnCNPJ";
-            this.radioBtnCNPJ.Size = new System.Drawing.Size(62, 24);
+            this.radioBtnCNPJ.Size = new System.Drawing.Size(52, 19);
             this.radioBtnCNPJ.TabIndex = 11;
             this.radioBtnCNPJ.TabStop = true;
             this.radioBtnCNPJ.Text = "CNPJ";
@@ -134,9 +147,10 @@ namespace TCC_PDI
             // 
             this.radiobtnCPF.AutoSize = true;
             this.radiobtnCPF.Checked = true;
-            this.radiobtnCPF.Location = new System.Drawing.Point(12, 169);
+            this.radiobtnCPF.Location = new System.Drawing.Point(10, 127);
+            this.radiobtnCPF.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radiobtnCPF.Name = "radiobtnCPF";
-            this.radiobtnCPF.Size = new System.Drawing.Size(54, 24);
+            this.radiobtnCPF.Size = new System.Drawing.Size(46, 19);
             this.radiobtnCPF.TabIndex = 11;
             this.radiobtnCPF.TabStop = true;
             this.radiobtnCPF.Text = "CPF";
@@ -146,9 +160,10 @@ namespace TCC_PDI
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(13, 477);
+            this.checkBox1.Location = new System.Drawing.Point(11, 358);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(126, 24);
+            this.checkBox1.Size = new System.Drawing.Size(102, 19);
             this.checkBox1.TabIndex = 10;
             this.checkBox1.Text = "Mostrar Senha";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -160,10 +175,11 @@ namespace TCC_PDI
             this.iconPictureBox5.IconChar = FontAwesome.Sharp.IconChar.UsersRectangle;
             this.iconPictureBox5.IconColor = System.Drawing.Color.White;
             this.iconPictureBox5.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconPictureBox5.IconSize = 65;
-            this.iconPictureBox5.Location = new System.Drawing.Point(435, 321);
+            this.iconPictureBox5.IconSize = 49;
+            this.iconPictureBox5.Location = new System.Drawing.Point(381, 241);
+            this.iconPictureBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconPictureBox5.Name = "iconPictureBox5";
-            this.iconPictureBox5.Size = new System.Drawing.Size(67, 65);
+            this.iconPictureBox5.Size = new System.Drawing.Size(59, 49);
             this.iconPictureBox5.TabIndex = 9;
             this.iconPictureBox5.TabStop = false;
             // 
@@ -173,10 +189,11 @@ namespace TCC_PDI
             this.iconPictureBox4.IconChar = FontAwesome.Sharp.IconChar.Lock;
             this.iconPictureBox4.IconColor = System.Drawing.Color.White;
             this.iconPictureBox4.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconPictureBox4.IconSize = 60;
-            this.iconPictureBox4.Location = new System.Drawing.Point(435, 430);
+            this.iconPictureBox4.IconSize = 45;
+            this.iconPictureBox4.Location = new System.Drawing.Point(381, 322);
+            this.iconPictureBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconPictureBox4.Name = "iconPictureBox4";
-            this.iconPictureBox4.Size = new System.Drawing.Size(67, 60);
+            this.iconPictureBox4.Size = new System.Drawing.Size(59, 45);
             this.iconPictureBox4.TabIndex = 8;
             this.iconPictureBox4.TabStop = false;
             // 
@@ -186,10 +203,11 @@ namespace TCC_PDI
             this.iconPictureBox3.IconChar = FontAwesome.Sharp.IconChar.Warehouse;
             this.iconPictureBox3.IconColor = System.Drawing.Color.White;
             this.iconPictureBox3.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconPictureBox3.IconSize = 65;
-            this.iconPictureBox3.Location = new System.Drawing.Point(435, 216);
+            this.iconPictureBox3.IconSize = 49;
+            this.iconPictureBox3.Location = new System.Drawing.Point(381, 162);
+            this.iconPictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconPictureBox3.Name = "iconPictureBox3";
-            this.iconPictureBox3.Size = new System.Drawing.Size(67, 65);
+            this.iconPictureBox3.Size = new System.Drawing.Size(59, 49);
             this.iconPictureBox3.TabIndex = 7;
             this.iconPictureBox3.TabStop = false;
             // 
@@ -199,10 +217,11 @@ namespace TCC_PDI
             this.iconPictureBox2.IconChar = FontAwesome.Sharp.IconChar.IdCard;
             this.iconPictureBox2.IconColor = System.Drawing.Color.White;
             this.iconPictureBox2.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconPictureBox2.IconSize = 65;
-            this.iconPictureBox2.Location = new System.Drawing.Point(435, 122);
+            this.iconPictureBox2.IconSize = 49;
+            this.iconPictureBox2.Location = new System.Drawing.Point(381, 92);
+            this.iconPictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconPictureBox2.Name = "iconPictureBox2";
-            this.iconPictureBox2.Size = new System.Drawing.Size(67, 65);
+            this.iconPictureBox2.Size = new System.Drawing.Size(59, 49);
             this.iconPictureBox2.TabIndex = 6;
             this.iconPictureBox2.TabStop = false;
             // 
@@ -212,9 +231,9 @@ namespace TCC_PDI
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(12, 420);
+            this.label3.Location = new System.Drawing.Point(10, 315);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 20);
+            this.label3.Size = new System.Drawing.Size(49, 17);
             this.label3.TabIndex = 5;
             this.label3.Text = "Senha";
             // 
@@ -224,9 +243,9 @@ namespace TCC_PDI
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(12, 321);
+            this.label2.Location = new System.Drawing.Point(10, 241);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(136, 20);
+            this.label2.Size = new System.Drawing.Size(115, 17);
             this.label2.TabIndex = 4;
             this.label2.Text = "Ramo / Atividade";
             // 
@@ -236,11 +255,11 @@ namespace TCC_PDI
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(12, 216);
+            this.label5.Location = new System.Drawing.Point(10, 162);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(148, 20);
+            this.label5.Size = new System.Drawing.Size(118, 17);
             this.label5.TabIndex = 3;
-            this.label5.Text = "Nome da Empresa";
+            this.label5.Text = "Nome do Usuario";
             // 
             // iconPictureBox1
             // 
@@ -248,10 +267,11 @@ namespace TCC_PDI
             this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.UserPlus;
             this.iconPictureBox1.IconColor = System.Drawing.Color.White;
             this.iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconPictureBox1.IconSize = 72;
-            this.iconPictureBox1.Location = new System.Drawing.Point(203, 3);
+            this.iconPictureBox1.IconSize = 54;
+            this.iconPictureBox1.Location = new System.Drawing.Point(178, 2);
+            this.iconPictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconPictureBox1.Name = "iconPictureBox1";
-            this.iconPictureBox1.Size = new System.Drawing.Size(88, 72);
+            this.iconPictureBox1.Size = new System.Drawing.Size(77, 54);
             this.iconPictureBox1.TabIndex = 0;
             this.iconPictureBox1.TabStop = false;
             // 
@@ -259,9 +279,10 @@ namespace TCC_PDI
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(550, 35);
+            this.pictureBox1.Location = new System.Drawing.Point(481, 26);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(323, 178);
+            this.pictureBox1.Size = new System.Drawing.Size(283, 134);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
@@ -270,9 +291,9 @@ namespace TCC_PDI
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(550, 710);
+            this.label4.Location = new System.Drawing.Point(481, 532);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(173, 20);
+            this.label4.Size = new System.Drawing.Size(146, 17);
             this.label4.TabIndex = 6;
             this.label4.Text = "Já possui uma conta?";
             // 
@@ -285,9 +306,10 @@ namespace TCC_PDI
             this.btnLoginBack.IconChar = FontAwesome.Sharp.IconChar.None;
             this.btnLoginBack.IconColor = System.Drawing.Color.Red;
             this.btnLoginBack.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnLoginBack.Location = new System.Drawing.Point(729, 705);
+            this.btnLoginBack.Location = new System.Drawing.Point(638, 529);
+            this.btnLoginBack.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLoginBack.Name = "btnLoginBack";
-            this.btnLoginBack.Size = new System.Drawing.Size(143, 29);
+            this.btnLoginBack.Size = new System.Drawing.Size(125, 22);
             this.btnLoginBack.TabIndex = 7;
             this.btnLoginBack.Text = "Faça Login";
             this.btnLoginBack.UseVisualStyleBackColor = true;
@@ -295,36 +317,30 @@ namespace TCC_PDI
             // 
             // textSenha
             // 
-            this.textSenha.Location = new System.Drawing.Point(12, 443);
+            this.textSenha.Location = new System.Drawing.Point(10, 332);
+            this.textSenha.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textSenha.Name = "textSenha";
             this.textSenha.PasswordChar = '*';
-            this.textSenha.Size = new System.Drawing.Size(417, 27);
+            this.textSenha.Size = new System.Drawing.Size(365, 23);
             this.textSenha.TabIndex = 8;
             // 
             // textCPF_CNPJ
             // 
             this.textCPF_CNPJ.CutCopyMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
-            this.textCPF_CNPJ.Location = new System.Drawing.Point(12, 136);
+            this.textCPF_CNPJ.Location = new System.Drawing.Point(10, 102);
+            this.textCPF_CNPJ.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textCPF_CNPJ.Name = "textCPF_CNPJ";
-            this.textCPF_CNPJ.Size = new System.Drawing.Size(417, 27);
+            this.textCPF_CNPJ.Size = new System.Drawing.Size(365, 23);
             this.textCPF_CNPJ.TabIndex = 14;
             this.textCPF_CNPJ.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             this.textCPF_CNPJ.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textCPF_CNPJ_KeyPress);
             // 
-            // cmbBoxRamoAtividade
-            // 
-            this.cmbBoxRamoAtividade.FormattingEnabled = true;
-            this.cmbBoxRamoAtividade.Location = new System.Drawing.Point(12, 344);
-            this.cmbBoxRamoAtividade.Name = "cmbBoxRamoAtividade";
-            this.cmbBoxRamoAtividade.Size = new System.Drawing.Size(417, 28);
-            this.cmbBoxRamoAtividade.TabIndex = 15;
-            // 
             // FormCadastro
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(896, 751);
+            this.ClientSize = new System.Drawing.Size(784, 563);
             this.Controls.Add(this.textCPF_CNPJ);
             this.Controls.Add(this.textSenha);
             this.Controls.Add(this.btnLoginBack);
@@ -332,6 +348,7 @@ namespace TCC_PDI
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormCadastro";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormModal";

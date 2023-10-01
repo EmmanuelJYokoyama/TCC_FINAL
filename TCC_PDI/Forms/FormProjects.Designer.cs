@@ -40,7 +40,7 @@ namespace TCC_PDI.Forms
             this.grid_projetos.Location = new System.Drawing.Point(67, 72);
             this.grid_projetos.Name = "grid_projetos";
             this.grid_projetos.RowTemplate.Height = 25;
-            this.grid_projetos.Size = new System.Drawing.Size(979, 474);
+            this.grid_projetos.Size = new System.Drawing.Size(1065, 474);
             this.grid_projetos.TabIndex = 0;
             this.grid_projetos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -64,6 +64,7 @@ namespace TCC_PDI.Forms
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormProjects";
             this.Text = "FormProjects";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormProjects_FormClosing);
             this.Load += new System.EventHandler(this.FormProjects_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grid_projetos)).EndInit();
             this.ResumeLayout(false);

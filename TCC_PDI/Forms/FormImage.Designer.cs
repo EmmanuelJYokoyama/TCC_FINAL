@@ -47,6 +47,7 @@ namespace TCC_PDI.Forms
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.txtBoxComentario = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxCam)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxImg)).BeginInit();
@@ -56,9 +57,10 @@ namespace TCC_PDI.Forms
             // 
             this.picBoxCam.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.picBoxCam.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picBoxCam.Location = new System.Drawing.Point(211, 137);
+            this.picBoxCam.Location = new System.Drawing.Point(185, 103);
+            this.picBoxCam.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picBoxCam.Name = "picBoxCam";
-            this.picBoxCam.Size = new System.Drawing.Size(388, 314);
+            this.picBoxCam.Size = new System.Drawing.Size(340, 236);
             this.picBoxCam.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picBoxCam.TabIndex = 0;
             this.picBoxCam.TabStop = false;
@@ -66,9 +68,10 @@ namespace TCC_PDI.Forms
             // 
             // carregar_img
             // 
-            this.carregar_img.Location = new System.Drawing.Point(632, 100);
+            this.carregar_img.Location = new System.Drawing.Point(553, 75);
+            this.carregar_img.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.carregar_img.Name = "carregar_img";
-            this.carregar_img.Size = new System.Drawing.Size(388, 31);
+            this.carregar_img.Size = new System.Drawing.Size(340, 23);
             this.carregar_img.TabIndex = 1;
             this.carregar_img.Text = "Carregar";
             this.carregar_img.UseVisualStyleBackColor = true;
@@ -77,10 +80,11 @@ namespace TCC_PDI.Forms
             // 
             // trackBar1
             // 
-            this.trackBar1.Location = new System.Drawing.Point(632, 457);
+            this.trackBar1.Location = new System.Drawing.Point(553, 343);
+            this.trackBar1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.trackBar1.Maximum = 255;
             this.trackBar1.Name = "trackBar1";
-            this.trackBar1.Size = new System.Drawing.Size(389, 56);
+            this.trackBar1.Size = new System.Drawing.Size(340, 45);
             this.trackBar1.TabIndex = 2;
             this.trackBar1.Value = 127;
             this.trackBar1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.trackBar1_MouseUp);
@@ -93,10 +97,11 @@ namespace TCC_PDI.Forms
             // 
             this.picBoxImg.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.picBoxImg.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picBoxImg.Location = new System.Drawing.Point(632, 137);
+            this.picBoxImg.Location = new System.Drawing.Point(553, 103);
+            this.picBoxImg.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picBoxImg.Name = "picBoxImg";
-            this.picBoxImg.Size = new System.Drawing.Size(388, 314);
-            this.picBoxImg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBoxImg.Size = new System.Drawing.Size(340, 236);
+            this.picBoxImg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picBoxImg.TabIndex = 0;
             this.picBoxImg.TabStop = false;
             // 
@@ -105,9 +110,10 @@ namespace TCC_PDI.Forms
             this.cmbCameras.DisplayMember = "null";
             this.cmbCameras.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbCameras.FormattingEnabled = true;
-            this.cmbCameras.Location = new System.Drawing.Point(211, 457);
+            this.cmbCameras.Location = new System.Drawing.Point(185, 343);
+            this.cmbCameras.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbCameras.Name = "cmbCameras";
-            this.cmbCameras.Size = new System.Drawing.Size(388, 28);
+            this.cmbCameras.Size = new System.Drawing.Size(340, 23);
             this.cmbCameras.TabIndex = 4;
             this.cmbCameras.ValueMember = "null";
             // 
@@ -115,9 +121,9 @@ namespace TCC_PDI.Forms
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(211, 557);
+            this.label1.Location = new System.Drawing.Point(185, 418);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(181, 33);
+            this.label1.Size = new System.Drawing.Size(142, 26);
             this.label1.TabIndex = 5;
             this.label1.Text = "Área ocupada: ";
             // 
@@ -125,9 +131,9 @@ namespace TCC_PDI.Forms
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(377, 565);
+            this.label2.Location = new System.Drawing.Point(330, 424);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(15, 22);
+            this.label2.Size = new System.Drawing.Size(13, 19);
             this.label2.TabIndex = 6;
             this.label2.Text = ".";
             // 
@@ -135,9 +141,9 @@ namespace TCC_PDI.Forms
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(558, 621);
+            this.label3.Location = new System.Drawing.Point(488, 466);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(15, 22);
+            this.label3.Size = new System.Drawing.Size(13, 19);
             this.label3.TabIndex = 8;
             this.label3.Text = ".";
             // 
@@ -145,17 +151,18 @@ namespace TCC_PDI.Forms
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(211, 613);
+            this.label4.Location = new System.Drawing.Point(185, 460);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(362, 33);
+            this.label4.Size = new System.Drawing.Size(281, 26);
             this.label4.TabIndex = 7;
             this.label4.Text = "Status de utilização de espaço: ";
             // 
             // salvarImagem
             // 
-            this.salvarImagem.Location = new System.Drawing.Point(1043, 449);
+            this.salvarImagem.Location = new System.Drawing.Point(913, 337);
+            this.salvarImagem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.salvarImagem.Name = "salvarImagem";
-            this.salvarImagem.Size = new System.Drawing.Size(181, 64);
+            this.salvarImagem.Size = new System.Drawing.Size(158, 48);
             this.salvarImagem.TabIndex = 9;
             this.salvarImagem.Text = "Salvar Imagem";
             this.salvarImagem.UseVisualStyleBackColor = true;
@@ -164,9 +171,10 @@ namespace TCC_PDI.Forms
             // 
             // abrirCamera
             // 
-            this.abrirCamera.Location = new System.Drawing.Point(211, 100);
+            this.abrirCamera.Location = new System.Drawing.Point(185, 75);
+            this.abrirCamera.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.abrirCamera.Name = "abrirCamera";
-            this.abrirCamera.Size = new System.Drawing.Size(186, 31);
+            this.abrirCamera.Size = new System.Drawing.Size(163, 23);
             this.abrirCamera.TabIndex = 10;
             this.abrirCamera.Text = "Abrir Câmera";
             this.abrirCamera.UseVisualStyleBackColor = true;
@@ -174,9 +182,10 @@ namespace TCC_PDI.Forms
             // 
             // tirarFoto
             // 
-            this.tirarFoto.Location = new System.Drawing.Point(211, 100);
+            this.tirarFoto.Location = new System.Drawing.Point(185, 75);
+            this.tirarFoto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tirarFoto.Name = "tirarFoto";
-            this.tirarFoto.Size = new System.Drawing.Size(388, 31);
+            this.tirarFoto.Size = new System.Drawing.Size(340, 23);
             this.tirarFoto.TabIndex = 11;
             this.tirarFoto.Text = "Tirar Foto";
             this.tirarFoto.UseVisualStyleBackColor = true;
@@ -193,9 +202,9 @@ namespace TCC_PDI.Forms
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(692, 494);
+            this.label5.Location = new System.Drawing.Point(606, 370);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(267, 31);
+            this.label5.Size = new System.Drawing.Size(221, 25);
             this.label5.TabIndex = 12;
             this.label5.Text = "Limiarização da Imagem";
             this.label5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -203,24 +212,38 @@ namespace TCC_PDI.Forms
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(4, 279);
+            this.label6.Location = new System.Drawing.Point(4, 209);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(50, 20);
+            this.label6.Size = new System.Drawing.Size(38, 15);
             this.label6.TabIndex = 13;
             this.label6.Text = "label6";
             // 
             // txtBoxComentario
             // 
-            this.txtBoxComentario.Location = new System.Drawing.Point(1094, 164);
+            this.txtBoxComentario.Location = new System.Drawing.Point(933, 103);
+            this.txtBoxComentario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtBoxComentario.Multiline = true;
             this.txtBoxComentario.Name = "txtBoxComentario";
-            this.txtBoxComentario.Size = new System.Drawing.Size(125, 27);
+            this.txtBoxComentario.Size = new System.Drawing.Size(138, 176);
             this.txtBoxComentario.TabIndex = 14;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label7.Location = new System.Drawing.Point(945, 76);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(113, 25);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Comentário";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // FormImage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1360, 728);
+            this.ClientSize = new System.Drawing.Size(1190, 546);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.txtBoxComentario);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -236,6 +259,7 @@ namespace TCC_PDI.Forms
             this.Controls.Add(this.carregar_img);
             this.Controls.Add(this.picBoxImg);
             this.Controls.Add(this.picBoxCam);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormImage";
             this.Text = "FormImage";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormImage_FormClosing);
@@ -267,5 +291,6 @@ namespace TCC_PDI.Forms
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtBoxComentario;
+        private System.Windows.Forms.Label label7;
     }
 }

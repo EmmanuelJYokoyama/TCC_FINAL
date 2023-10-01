@@ -92,7 +92,7 @@ namespace TCC_PDI
             {
                 con.Close();
                 con.Open();
-                comandosql.CommandText = String.Format(@"insert into dados_empresa values ('{0}', '{1}', '{2}', '{3}')", cpf_cnpj, nomeEmpresa, ramoAtividade, senha);
+                comandosql.CommandText = String.Format(@"insert into dados_empresa values ('{0}', '{1}', '{2}', MD5('{3}'))", cpf_cnpj, nomeEmpresa, ramoAtividade, senha);
                 comandosql.ExecuteNonQuery();
                 comandosql.Connection.Close();
                 MessageBox.Show("Inserido com sucesso!");
@@ -153,7 +153,8 @@ namespace TCC_PDI
         private void radiobtnCPF_CheckedChanged(object sender, EventArgs e)
         {
             textCPF_CNPJ.TabIndex = 11;
-            textCPF_CNPJ.Mask = "000,000,000-00";  
+            textCPF_CNPJ.Mask = "000,000,000-00";
+            label5.Text = "Nome do Usuario";
             
             multiplicadoresCPF_CNPJ = new[] { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
         }
@@ -162,6 +163,7 @@ namespace TCC_PDI
         {
             textCPF_CNPJ.TabIndex = 14;
             textCPF_CNPJ.Mask = "00,000,000/0000-00";
+            label5.Text = "Nome da Empresa";
 
             multiplicadoresCPF_CNPJ = new[] { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
         }

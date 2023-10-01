@@ -256,6 +256,7 @@ namespace TCC_PDI.Forms
                                      this.cpf_cnpj, nomeProjeto, tempImgFonte, tempImgProcessada, coluna, linha, status, areaUtil, comentario);
             comandosql.ExecuteNonQuery();
             comandosql.Connection.Close();
+            connection.Close();
 
             MessageBox.Show("Inserido com sucesso!");
         }
@@ -263,7 +264,7 @@ namespace TCC_PDI.Forms
         private void FormImage_FormClosing(object sender, FormClosingEventArgs e)
         {
             fecharCamera();
-            Application.Exit();
+            //Application.Exit();
         }
     }
 }

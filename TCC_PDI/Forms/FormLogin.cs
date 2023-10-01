@@ -44,7 +44,7 @@ namespace TCC_PDI
             con.Open();
 
             MySqlCommand comandosql = con.CreateCommand();
-            comandosql.CommandText = String.Format("select * from dados_empresa where cpf_cnpj = '{0}' and senha = '{1}'", cpf_cnpj, senha);
+            comandosql.CommandText = String.Format("select * from dados_empresa where cpf_cnpj = '{0}' and senha = MD5('{1}')", cpf_cnpj, senha);
             MySqlDataReader Query = comandosql.ExecuteReader();
 
             if (!Query.Read())
